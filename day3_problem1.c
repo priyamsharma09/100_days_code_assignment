@@ -9,8 +9,7 @@ int main() {
     scanf("%f",&c);
 
     f=(c*9/5)+32;
-    printf("temperature in fahrenheit = %.2f",
-    )
+    printf("temperature in fahrenheit = %.2f",f);
     
 
     return 0;
